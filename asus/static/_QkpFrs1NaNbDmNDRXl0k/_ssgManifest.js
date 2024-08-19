@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fmarkets\u002Fdefi\u002F[assetSymbol]","\u002Fmarkets\u002Fmain\u002F[assetSymbol]","\u002Fmarkets\u002Fveno\u002F[assetSymbol]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
